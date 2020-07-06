@@ -105,4 +105,7 @@ Instructions
 
 Write-up for PA2
 ----------------
-
+Design:
+For comment and string matching, start conditions are used to handle 
+various kinds of errors and edge cases. It would be very difficult to
+do so purely in regular expressions such as nested comment.
